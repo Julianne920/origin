@@ -28,6 +28,7 @@ struct ContentView: View {
                         .resizable()
                         .scaledToFit()
                         .frame(width: 500, height: 500)
+                    //this is a comment
                 }
             }
         }
